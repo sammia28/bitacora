@@ -1,0 +1,24 @@
+.opciones2{
+    display: none;
+}
+#btnPublicar{
+    background: #395EA6;
+    border-radius: 4px;
+    border: 2px solid #2EA1D9;
+    color: white;
+    font-size: 1.1em;
+    margin-top: 8%;
+}
+#textareaPublicar, #inputTitulo{
+    background: #F4F7F8;
+    border: 1px solid #2EA1D9;
+    border-radius: 4px;
+    font-size: 17px;
+    width: 50%;
+    margin-right: 43%;
+    margin-bottom: -6%;
+}
+
+.icopciones{
+    font-size: 2em;
+}
