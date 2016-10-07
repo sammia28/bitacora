@@ -8,7 +8,9 @@ body{
 .opciones2{
     display: none;
 }
-
+h1{
+	color: aliceblue;
+}
 #btnPublicar {
 	background: #395EA6;
 	border-radius: 4px;
