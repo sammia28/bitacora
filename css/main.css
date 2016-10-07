@@ -1,22 +1,53 @@
+body{
+	background-image: url(../img/fondo-pantalla.jpg);
+	width: 100%;
+	height: 100px;
+	background-repeat: no-repeat;
+	background-size: 100%
+}
 .opciones2{
     display: none;
 }
-#btnPublicar{
-    background: #395EA6;
-    border-radius: 4px;
-    border: 2px solid #2EA1D9;
-    color: white;
-    font-size: 1.1em;
-    margin-top: 8%;
+
+#btnPublicar {
+	background: #395EA6;
+	border-radius: 4px;
+	border: 2px solid #2EA1D9;
+	color: white;
+	font-size: 1.1em;
+	margin-top: 8%;
+	margin-bottom: 7%;
 }
+
+.opcionPost {
+    background-color:  #F4F7F8;
+}
+
+
 #textareaPublicar, #inputTitulo{
     background: #F4F7F8;
-    border: 1px solid #2EA1D9;
-    border-radius: 4px;
-    font-size: 17px;
-    width: 50%;
-    margin-right: 43%;
-    margin-bottom: -6%;
+	border: 1px solid #2EA1D9;
+	border-radius: 4px;
+	font-size: 17px;
+	width: 50%;
+	margin-right: 43%;
+	margin-bottom: -3%;
+	padding: 4%;
+}
+#js-publicado{
+	background: #F4F7F8;
+	border: 1px solid #2EA1D9;
+	border-radius: 4px;
+	font-size: 17px;
+	margin: 0 16%;
+	padding: 3%;
+	clear: both;
+	
+}
+#inputTitulo{
+    padding: 0;
+    margin-top: 3%;
+    margin-bottom: 3%;
 }
 
 .icopciones{
